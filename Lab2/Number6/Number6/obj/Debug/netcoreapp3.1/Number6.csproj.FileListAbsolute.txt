@@ -1,0 +1,14 @@
+C:\Users\intre\source\repos\Number6\Number6\bin\Debug\netcoreapp3.1\Number6.exe
+C:\Users\intre\source\repos\Number6\Number6\bin\Debug\netcoreapp3.1\Number6.deps.json
+C:\Users\intre\source\repos\Number6\Number6\bin\Debug\netcoreapp3.1\Number6.runtimeconfig.json
+C:\Users\intre\source\repos\Number6\Number6\bin\Debug\netcoreapp3.1\Number6.runtimeconfig.dev.json
+C:\Users\intre\source\repos\Number6\Number6\bin\Debug\netcoreapp3.1\Number6.dll
+C:\Users\intre\source\repos\Number6\Number6\bin\Debug\netcoreapp3.1\Number6.pdb
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.csproj.AssemblyReference.cache
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.AssemblyInfoInputs.cache
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.AssemblyInfo.cs
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.csproj.CoreCompileInputs.cache
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.dll
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.pdb
+C:\Users\intre\source\repos\Number6\Number6\obj\Debug\netcoreapp3.1\Number6.genruntimeconfig.cache
