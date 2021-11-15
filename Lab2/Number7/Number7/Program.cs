@@ -11,7 +11,7 @@ namespace Number7
             {
                 if (x % i == 0)
                 {
-                    if (i % 2 == 0)
+                    if (i % 2 != 0)
                     {
                         Console.WriteLine("Ответ: " + i);
                         
